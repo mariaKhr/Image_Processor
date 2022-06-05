@@ -1,3 +1,0 @@
-C:/Users/marya/cpp-base-hse-2022/projects/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
-C:/Users/marya/cpp-base-hse-2022/projects/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/marya/cpp-base-hse-2022/projects/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
